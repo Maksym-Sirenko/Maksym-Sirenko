@@ -36,8 +36,8 @@
 
 | Project | Tech | Link |
 |---------|------|------|
-| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) / [Repo](https://github.com/Yambren/goit-js-hw-12) |
-| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) / [Repo](https://github.com/Yambren/goit-js-hw-10) |
+| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) |
+| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) |
 | Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
 | WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
 
