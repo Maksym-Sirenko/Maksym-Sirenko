@@ -1,6 +1,7 @@
 # 👨‍💻 Hi, I'm Maksym Sirenko!  
 
 🚀 Aspiring **Fullstack Developer** | 🎨 Frontend Learner | ⚙️ Backend Explorer  
+🎓 Currently studying **Fullstack Development at GoIT**
 
 ---
 
