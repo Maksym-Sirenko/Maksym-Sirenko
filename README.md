@@ -1,14 +1,14 @@
 # 👨‍💻 Hi, I'm Maksym Sirenko!  
 
-🚀 Future **Fullstack Developer** | 🎨 Frontend Enthusiast | ⚙️ Backend Explorer  
+🚀 Junior **Fullstack Developer** | 🎨 Frontend Enthusiast | ⚙️ Backend Explorer  
 
 ---
 
 ## 🔥 About Me
-- 🌱 I’m currently learning **JavaScript, React, Node.js, and databases**  
-- 🛠 Working on small projects to sharpen my **frontend & backend skills**  
-- 🎯 Goal: Build scalable web applications and grow into a strong **Fullstack Engineer**  
-- 🖥 I enjoy **creating modern UIs, solving logic puzzles, and writing clean code**  
+🌱 Currently learning **JavaScript, React, Node.js, and databases**  
+🛠 Building small projects to improve my **frontend & backend skills**  
+🎯 Goal: Become a skilled **Fullstack Developer** and create scalable web applications  
+🖥 Enjoy designing modern UIs, solving logic problems, and writing clean code  
 
 ---
 
@@ -33,13 +33,16 @@
 ---
 
 ## 🚀 Featured Projects
-  
-🔹 [Gallery with Lightbox](https://github.com/https://maksym-sirenko.github.io/goit-js-hw-12/) — JavaScript + SimpleLightbox  
-🔹 [Timer App]([https://github.com/твій-репозиторій](https://maksym-sirenko.github.io/goit-js-hw-10/)) — JS countdown timer 
-🔹 [Biological Core Project](https://zvyacheslavv.github.io/biological-core-project/) — team project  
-🔹 [WebStudio](https://maksym-sirenko.github.io/goit-markup-hw-06/) — adaptive layout with HTML/CSS
+
+| Project | Tech | Link |
+|---------|------|------|
+| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) / [Repo](https://github.com/Yambren/goit-js-hw-12) |
+| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) / [Repo](https://github.com/Yambren/goit-js-hw-10) |
+| Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
+| WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
 
 ---
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/) 
+
