@@ -8,7 +8,7 @@
 I'm Maksym Sirenko, an aspiring Fullstack Developer from Ukraine. Currently, I'm learning:
 
 - **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express, MongoDB  
+- **Backend**: Node.js
 - **Tools**: Git, GitHub, Vercel, Netlify  
 
 I enjoy building small projects to practice my skills, exploring new technologies, and improving my understanding of web development.
