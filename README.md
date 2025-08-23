@@ -49,11 +49,3 @@ I enjoy building small projects to practice my skills, exploring new technologie
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/) 
 
-| Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
-| WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
-
----
-
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/) 
-
