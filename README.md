@@ -33,12 +33,13 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [WebStudio](https://github.com/твій-репозиторій) — adaptive layout with HTML/CSS  
-🔹 [Gallery with Lightbox](https://github.com/твій-репозиторій) — JavaScript + SimpleLightbox  
-🔹 [Timer App](https://github.com/твій-репозиторій) — JS countdown timer  
+  
+🔹 [Gallery with Lightbox](https://github.com/https://maksym-sirenko.github.io/goit-js-hw-12/) — JavaScript + SimpleLightbox  
+🔹 [Timer App]([https://github.com/твій-репозиторій](https://maksym-sirenko.github.io/goit-js-hw-10/)) — JS countdown timer 
+🔹 [Biological Core Project](https://zvyacheslavv.github.io/biological-core-project/) — team project  
+🔹 [WebStudio](https://maksym-sirenko.github.io/goit-markup-hw-06/) — adaptive layout with HTML/CSS
 
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/)  
-//[![Portfolio](https://img.shields.io/badge/Portfolio-in_progress-green?logo=firefox&logoColor=white)](#)//
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/) 
