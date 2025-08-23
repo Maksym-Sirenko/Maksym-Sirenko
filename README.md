@@ -40,5 +40,5 @@
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](твій_лінк)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-in_progress-green?logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/)  
+//[![Portfolio](https://img.shields.io/badge/Portfolio-in_progress-green?logo=firefox&logoColor=white)](#)//
