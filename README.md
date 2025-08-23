@@ -1,14 +1,17 @@
 # 👨‍💻 Hi, I'm Maksym Sirenko!  
 
-🚀 Junior **Fullstack Developer** | 🎨 Frontend Enthusiast | ⚙️ Backend Explorer  
+🚀 Aspiring **Fullstack Developer** | 🎨 Frontend Learner | ⚙️ Backend Explorer  
 
 ---
 
 ## 🔥 About Me
-🌱 Currently learning **JavaScript, React, Node.js, and databases**  
-🛠 Building small projects to improve my **frontend & backend skills**  
-🎯 Goal: Become a skilled **Fullstack Developer** and create scalable web applications  
-🖥 Enjoy designing modern UIs, solving logic problems, and writing clean code  
+I'm Maksym Sirenko, an aspiring Fullstack Developer from Ukraine. Currently, I'm learning:
+
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express, MongoDB  
+- **Tools**: Git, GitHub, Vercel, Netlify  
+
+I enjoy building small projects to practice my skills, exploring new technologies, and improving my understanding of web development.
 
 ---
 
@@ -27,8 +30,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Yambren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yambren&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yambren&layout=compact&theme=tokyonight)  
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksym-Sirenko&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksym-Sirenko&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -36,8 +39,16 @@
 
 | Project | Tech | Link |
 |---------|------|------|
-| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) |
-| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) |
+| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) / [Repo](https://github.com/Maksym-Sirenko/goit-js-hw-12) |
+| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) / [Repo](https://github.com/Maksym-Sirenko/goit-js-hw-10) |
+| Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
+| WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
+
+---
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/) 
+
 | Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
 | WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
 
