@@ -39,13 +39,15 @@ I enjoy building small projects to practice my skills, exploring new technologie
 
 | Project | Tech | Link |
 |---------|------|------|
-| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) / [Repo](https://github.com/Maksym-Sirenko/goit-js-hw-12) |
-| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) / [Repo](https://github.com/Maksym-Sirenko/goit-js-hw-10) |
+| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) |
+| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) |
 | Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
 | WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
 
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/) 
+- Email: toyotasan@gmail.com  
+- Phone: +380979205310  
+- [LinkedIn](https://www.linkedin.com/in/maksym-sirenko/)  
 
