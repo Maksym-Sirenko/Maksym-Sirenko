@@ -45,7 +45,8 @@ I enjoy building small projects to practice my skills, exploring new technologie
 ---
 
 ## 🌐 Let's Connect
-- Email: toyotasan@gmail.com  
-- Phone: +380979205310  
-- [LinkedIn](https://www.linkedin.com/in/maksym-sirenko/)  
+- [![Email](https://img.shields.io/badge/Email-toyotasan@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:toyotasan@gmail.com)  
+- [![Phone](https://img.shields.io/badge/Phone-%2B380979205310-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+380979205310)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym--Sirenko-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/)  
+
 
