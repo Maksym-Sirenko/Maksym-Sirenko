@@ -44,14 +44,7 @@ I’m a motivated Fullstack Developer from Ukraine, passionate about building us
 - [![Email](https://img.shields.io/badge/Email-toyotasan@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:toyotasan@gmail.com)  
 - [![Phone](https://img.shields.io/badge/Phone-%2B380979205310-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+380979205310)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym--Sirenko-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/)  
-- [![Telegram](https://img.shields.io/badge/Telegram-@Yambren-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yambren)  
-
-
-## 🌐 Let's Connect
-- [![Email](https://img.shields.io/badge/Email-toyotasan@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:toyotasan@gmail.com)  
-- [![Phone](https://img.shields.io/badge/Phone-%2B380979205310-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+380979205310)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym--Sirenko-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sirenko/)  
-- [![Telegram](https://img.shields.io/badge/Telegram-@Yambren-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yambren)  
+- [![Telegram](https://img.shields.io/badge/Telegram-@Yambren-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yambren)   
 
 
 
