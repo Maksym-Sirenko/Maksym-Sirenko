@@ -1,18 +1,18 @@
 # 👨‍💻 Hi, I'm Maksym Sirenko!  
 
-🚀 Aspiring **Fullstack Developer** | 🎨 Frontend Learner | ⚙️ Backend Explorer  
-🎓 Currently studying **Fullstack Development at GoIT**
+💼 Junior Fullstack Developer | 🎓 GoIT Graduate (in progress) | 🚀 Ready to contribute & grow  
 
 ---
 
 ## 🔥 About Me
-I'm Maksym Sirenko, an aspiring Fullstack Developer from Ukraine. Currently, I'm learning:
+I’m a motivated Fullstack Developer from Ukraine, focused on building practical projects and sharpening my skills in both **Frontend** and **Backend** development.  
 
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js
-- **Tools**: VS Code, Git, GitHub, Vite, npm
+- Currently diving deep into **JavaScript** and **React**  
+- Exploring backend with **Node.js**  
+- Practicing teamwork through group projects  
+- Passionate about clean code, problem-solving, and continuous learning  
 
-I enjoy building small projects to practice my skills, exploring new technologies, and improving my understanding of web development.
+💡 Open to collaboration, internships, and junior opportunities where I can grow while contributing to real projects.  
 
 ---
 
@@ -38,10 +38,13 @@ I enjoy building small projects to practice my skills, exploring new technologie
 
 | Project | Tech | Link |
 |---------|------|------|
-| Gallery with Lightbox | JavaScript + SimpleLightbox | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) |
-| Timer App | JavaScript countdown timer | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) |
-| Biological Core Project | Team project | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
-| WebStudio | Adaptive HTML/CSS layout | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
+| Gallery with Lightbox | JavaScript + SimpleLightbox. Interactive gallery with modal view. | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) |
+| Timer App | Vanilla JavaScript countdown timer with start/stop logic. | [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-10/) |
+| Biological Core Project | Team project: landing page with adaptive layout. | [Live Demo](https://zvyacheslavv.github.io/biological-core-project/) |
+| WebStudio | Responsive business website layout (HTML/CSS). | [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) |
+
+---
+
 
 ---
 
