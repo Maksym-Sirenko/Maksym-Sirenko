@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-🌐 <b>Developer Portfolio</b> → <a href="https://personal-page-eta-weld.vercel.app/">personal-page-eta-weld.vercel.app</a><br/>
+🌐 <b>Developer Portfolio</b> → 
+<a href="https://personal-page-eta-weld.vercel.app/" target="_blank" rel="noopener noreferrer">
+personal-page-eta-weld.vercel.app
+</a><br/>
 🚧 Currently improving UI & adding new features
 </p>
 
@@ -18,12 +21,12 @@
 ## 🔥 About Me
 I’m a motivated Fullstack Developer from Ukraine, passionate about building user-friendly applications and constantly learning new technologies.
 
-- Building real-world projects with **React & Node.js**
-- Strong foundation in **HTML, CSS, JavaScript**
-- Exploring backend with **Node.js, Express, MongoDB**
-- Experience with **REST APIs, authentication, and responsive UI**
-- Comfortable with **Git workflows and teamwork**
-- Driven by clean code, problem-solving, and continuous improvement
+- Building real-world projects with <b>React & Node.js</b>  
+- Strong foundation in <b>HTML, CSS, JavaScript</b>  
+- Exploring backend with <b>Node.js, Express, MongoDB</b>  
+- Experience with <b>REST APIs, authentication, and responsive UI</b>  
+- Comfortable with <b>Git workflows and teamwork</b>  
+- Driven by clean code, problem-solving, and continuous improvement  
 
 💡 Open to collaboration, internships, and junior opportunities.
 
@@ -62,54 +65,97 @@ I’m a motivated Fullstack Developer from Ukraine, passionate about building us
 
 ### 🚐 TravelTrucks
 Fullstack camper rental platform with filtering, camper details, and booking flow.  
-**Tech:** Next.js, React, TypeScript, Zustand, Axios  
-🔗 [Live Demo](https://travel-trucks-mu-lovat.vercel.app/) | 💻 [Code](https://github.com/Maksym-Sirenko/travel-trucks)
+<b>Tech:</b> Next.js, React, TypeScript, Zustand, Axios  
+
+<p>
+<a href="https://travel-trucks-mu-lovat.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Demo-4FA3FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Maksym-Sirenko/travel-trucks" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### 🔐 Auth App
 Fullstack authentication system with registration, login, JWT, and protected routes.  
-**Tech:** Node.js, Express, MongoDB, JWT  
-🔗 [Live Demo](https://09-auth-mu-ashen.vercel.app/) | 💻 [Code](https://github.com/Maksym-Sirenko/09-auth)
+<b>Tech:</b> Node.js, Express, MongoDB, JWT  
+
+<p>
+<a href="https://09-auth-mu-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Demo-4FA3FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Maksym-Sirenko/09-auth" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### 🎧 ArtistsHub (Team Project)
 Responsive UI project built in a team environment with component-based structure.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 [Live Demo](https://zviacheslavv.github.io/developers-orchestra-project/) | 💻 [Code](https://github.com/ZviacheslavV/developers-orchestra-project)
+<b>Tech:</b> HTML, CSS, JavaScript  
+
+<p>
+<a href="https://zviacheslavv.github.io/developers-orchestra-project/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Demo-4FA3FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/ZviacheslavV/developers-orchestra-project" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### 🖼 Gallery with Lightbox
 Interactive gallery with modal preview and external library integration.  
-**Tech:** JavaScript, SimpleLightbox  
-🔗 [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) | 💻 [Code](https://github.com/Maksym-Sirenko/goit-js-hw-12)
+<b>Tech:</b> JavaScript, SimpleLightbox  
+
+<p>
+<a href="https://maksym-sirenko.github.io/goit-js-hw-12/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Demo-4FA3FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Maksym-Sirenko/goit-js-hw-12" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### 🏢 WebStudio
 Responsive business website layout with semantic markup and adaptive design.  
-**Tech:** HTML, CSS  
-🔗 [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) | 💻 [Code](https://github.com/Maksym-Sirenko/goit-markup-hw-06)
+<b>Tech:</b> HTML, CSS  
+
+<p>
+<a href="https://maksym-sirenko.github.io/goit-markup-hw-06/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Demo-4FA3FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Maksym-Sirenko/goit-markup-hw-06" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🌐 Let's Connect
 
 <p>
-  <a href="mailto:toyotasan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-toyotasan@gmail.com-c14438?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+380979205310">
-    <img src="https://img.shields.io/badge/Phone-%2B380979205310-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maksym-sirenko/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maksym--Sirenko-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Yambren">
-    <img src="https://img.shields.io/badge/Telegram-@Yambren-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
-  </a>
+<a href="mailto:toyotasan@gmail.com">
+<img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+380979205310">
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maksym-sirenko/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Yambren" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 </p>
 
 ---
