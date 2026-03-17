@@ -1,16 +1,16 @@
 <h1 align="center">👨‍💻 Hi, I'm Maksym Sirenko</h1>
 
 <p align="center">
-  💼 Junior Fullstack Developer (React / Node.js) | 🎓 GoIT | 🚀 Ready to contribute & grow
+💼 Junior Fullstack Developer (React / Node.js) | 🎓 GoIT | 🚀 Ready to contribute & grow
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=4FA3FF&size=24&center=true&vCenter=true&width=700&lines=Junior+Fullstack+Developer;React+%2F+Node.js+Enthusiast;Building+real-world+projects;Open+to+internships+and+junior+roles" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=4FA3FF&size=24&center=true&vCenter=true&width=700&lines=Junior+Fullstack+Developer;React+%2F+Node.js+Enthusiast;Building+real-world+projects;Open+to+internships+and+junior+roles" />
 </p>
 
 <p align="center">
-  🌐 <b>Developer Portfolio</b> → <a href="https://personal-page-eta-weld.vercel.app/">personal-page-eta-weld.vercel.app</a><br/>
-  🚧 Currently improving UI & adding new features
+🌐 <b>Developer Portfolio</b> → <a href="https://personal-page-eta-weld.vercel.app/">personal-page-eta-weld.vercel.app</a><br/>
+🚧 Currently improving UI & adding new features
 </p>
 
 ---
@@ -20,12 +20,12 @@ I’m a motivated Fullstack Developer from Ukraine, passionate about building us
 
 - Building real-world projects with **React & Node.js**
 - Strong foundation in **HTML, CSS, JavaScript**
-- Exploring backend with **Node.js**
-- Experience with **REST APIs, state management, and responsive UI**
+- Exploring backend with **Node.js, Express, MongoDB**
+- Experience with **REST APIs, authentication, and responsive UI**
 - Comfortable with **Git workflows and teamwork**
 - Driven by clean code, problem-solving, and continuous improvement
 
-💡 Open to collaboration, internships, and junior opportunities where I can grow while contributing to real projects.
+💡 Open to collaboration, internships, and junior opportunities.
 
 ---
 
@@ -60,31 +60,38 @@ I’m a motivated Fullstack Developer from Ukraine, passionate about building us
 
 ## 🚀 Featured Projects
 
-### TravelTrucks
-Fullstack camper rental app with catalog browsing, filtering, camper details, and booking flow.  
+### 🚐 TravelTrucks
+Fullstack camper rental platform with filtering, camper details, and booking flow.  
 **Tech:** Next.js, React, TypeScript, Zustand, Axios  
 🔗 [Live Demo](https://travel-trucks-mu-lovat.vercel.app/) | 💻 [Code](https://github.com/Maksym-Sirenko/travel-trucks)
 
 ---
 
-### ArtistsHub
-Team project focused on modern responsive UI, component-based structure, and collaborative development workflow.  
+### 🔐 Auth App
+Fullstack authentication system with registration, login, JWT, and protected routes.  
+**Tech:** Node.js, Express, MongoDB, JWT  
+🔗 [Live Demo](https://09-auth-mu-ashen.vercel.app/) | 💻 [Code](https://github.com/Maksym-Sirenko/09-auth)
+
+---
+
+### 🎧 ArtistsHub (Team Project)
+Responsive UI project built in a team environment with component-based structure.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [Live Demo](https://zviacheslavv.github.io/developers-orchestra-project/) | 💻 [Code](https://github.com/ZviacheslavV/developers-orchestra-project)
 
 ---
 
-### Gallery with Lightbox
-Interactive gallery project with modal image preview and external library integration.  
+### 🖼 Gallery with Lightbox
+Interactive gallery with modal preview and external library integration.  
 **Tech:** JavaScript, SimpleLightbox  
-🔗 [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/)
+🔗 [Live Demo](https://maksym-sirenko.github.io/goit-js-hw-12/) | 💻 [Code](https://github.com/Maksym-Sirenko/goit-js-hw-12)
 
 ---
 
-### WebStudio
-Responsive business website layout with adaptive design and clean semantic markup.  
+### 🏢 WebStudio
+Responsive business website layout with semantic markup and adaptive design.  
 **Tech:** HTML, CSS  
-🔗 [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/)
+🔗 [Live Demo](https://maksym-sirenko.github.io/goit-markup-hw-06/) | 💻 [Code](https://github.com/Maksym-Sirenko/goit-markup-hw-06)
 
 ---
 
@@ -110,6 +117,6 @@ Responsive business website layout with adaptive design and clean semantic marku
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maksym-Sirenko&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maksym-Sirenko&show_icons=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksym-Sirenko&layout=compact" />
 </p>
