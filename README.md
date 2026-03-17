@@ -47,4 +47,4 @@ I’m a motivated Fullstack Developer from Ukraine, passionate about building us
 - [![Telegram](https://img.shields.io/badge/Telegram-@Yambren-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yambren)   
 
 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Maksym-Sirenko&show_icons=true)
